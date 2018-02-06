@@ -1,12 +1,8 @@
-About this page
+关于 3 minutes movie
 =====================
 
-一个基于Github page空间的简易发布平台。
-特点是简单直接，无需购买数据库，应用js+markdown语法，用于管理和发布一些简单文字，图片，视频等。
- 
+这个站点感悟于陈可辛导演的电影《3分钟》。建立此站，希望能看到更多普通人的三分钟，分享更多感动。
 
-Fork on this web system in github
-=====================
- 
-[Github web side source code](https://github.com/3mincom/3mincom.github.io "Fork on github")
+- Evel
+
 

@@ -1,4 +1,3 @@
-   
 $(document).ready(function(){
     //Get from the init folder for welcome or something you want show to user in index page
     LoadDMFile('index');
